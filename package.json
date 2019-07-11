@@ -65,7 +65,7 @@
     "react": "^0.14.8",
     "react-dom": "^0.14.8",
     "react-router": "2.0.0",
-    "react-sticky": "2.5.2",
+    "react-sticky": "5.0.8",
     "react-tap-event-plugin": "0.2.0",
     "rx": "4.0.8"
   },
